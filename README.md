@@ -1,0 +1,1 @@
+# Foresighting-Technological-Trends---DELOITTE
