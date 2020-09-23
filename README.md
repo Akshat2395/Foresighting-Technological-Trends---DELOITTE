@@ -1,6 +1,6 @@
 ## Foresighting-Technological-Trends - DELOITTE
 
-This report presents a framework for Deloitte to identify the maturity of an emerging technology developed based on four preceding technologies. The AIRS Technology Foresighting Framework presents itself under four pillars: applicability, impact, risks, and sustainability. Each component is defined below:
+The project presents a framework for Deloitte to identify the maturity of an emerging technology developed based on four preceding technologies. The AIRS Technology Foresighting Framework presents itself under four pillars: applicability, impact, risks, and sustainability. Each component is defined below:
 
 Applicability: The relevance to business challenges
 Impact: The value created to the client’s business
